@@ -1,0 +1,119 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which%20one%20of%20these%20was%20not%20a%20beach%20landing%20site%20in%20the%20Invasion%20of%20Normandy%3F",
+            "correct_answer": "Silver",
+            "incorrect_answers": [
+                "Gold",
+                "Juno",
+                "Sword"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In%20what%20year%20did%20the%20Wall%20Street%20Crash%20take%20place%3F",
+            "correct_answer": "1929",
+            "incorrect_answers": [
+                "1932",
+                "1930",
+                "1925"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The%20Spitfire%20originated%20from%20a%20racing%20plane.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which%20modern%20day%20country%20is%20the%20region%20that%20was%20known%20as%20Phrygia%20in%20ancient%20times%3F",
+            "correct_answer": "Turkey",
+            "incorrect_answers": [
+                "Syria",
+                "Greece",
+                "Egypt"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In%201720%2C%20England%20was%20in%20massive%20debt%20and%20became%20involved%20in%20the%20South%20Sea%20Bubble.%20Who%20was%20the%20main%20mastermind%20behind%20it%3F",
+            "correct_answer": "John%20Blunt",
+            "incorrect_answers": [
+                "Daniel%20Defoe",
+                "Robert%20Harley",
+                "John%20Churchill"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In%20World%20War%20ll%2C%20Great%20Britian%20used%20inflatable%20tanks%20on%20the%20ports%20of%20Great%20Britain%20to%20divert%20Hitler%20away%20from%20Normandy%2FD-day%20landing.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Adolf%20Hitler%20was%20tried%20at%20the%20Nuremberg%20trials.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "To%20what%20political%20party%20did%20Abraham%20Lincoln%20belong%20when%20elected%20POTUS%3F",
+            "correct_answer": "Republican",
+            "incorrect_answers": [
+                "Democrat",
+                "Independent",
+                "Whig"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which%20modern%20country%20is%20known%20as%20%22The%20Graveyard%20of%20Empires%22%3F",
+            "correct_answer": "Afghanistan",
+            "incorrect_answers": [
+                "China",
+                "Iraq",
+                "Russia"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In%20what%20year%20did%20the%20Great%20Northern%20War%2C%20between%20Russia%20and%20Sweden%2C%20end%3F",
+            "correct_answer": "1721",
+            "incorrect_answers": [
+                "1726",
+                "1727",
+                "1724"
+            ]
+        }
+    ]
+}
