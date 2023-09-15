@@ -2,117 +2,123 @@
     "response_code": 0,
     "results": [
         {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
             "question": "Berapakah pecahan paling sederhana dari pecahan 16/24",
-            "correct_answer": "Silver",
+            "correct_answer": "2/3",
             "incorrect_answers": [
-                "Gold",
-                "Juno",
-                "Sword"
+                "4/6",
+                "8/12",
+                "2/6"
             ]
         },
         {
-            "category": "History",
+            "category": "Mathematics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Ibu membawa potong melon untuk dimakan bersama 4 orang temannya. Berapakahbesar potongan melon yang diperoleh masing-masing?",
+            "correct_answer": "3/16",
+            "incorrect_answers": [
+                "3/15",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
             "question": "KPK dari 27 dan 45 adalah",
-            "correct_answer": "1929",
+            "correct_answer": "135",
             "incorrect_answers": [
-                "1932",
-                "1930",
-                "1925"
+                "125",
+                "115",
+                "105"
             ]
         },
         {
-            "category": "History",
-            "type": "boolean",
+            "category": "Mathematics",
+            "type": "multiple",
             "difficulty": "easy",
             "question": "Berapa FPB dari 27 dan 45",
-            "correct_answer": "True",
+            "correct_answer": "9",
             "incorrect_answers": [
-                "False"
+                "6",
+                "7",
+                "8"
             ]
         },
         {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
             "question": "Sudut yang terbentuk antara 0 sampai dengan 90 derajat disebut dengan sudut",
-            "correct_answer": "Turkey",
+            "correct_answer": "Sudut Lancip",
             "incorrect_answers": [
-                "Syria",
-                "Greece",
-                "Egypt"
+                "Sudut Siku-siku",
+                "Sudut Tumpul",
+                "Sudut Lurus"
             ]
         },
         {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In%201720%2C%20England%20was%20in%20massive%20debt%20and%20became%20involved%20in%20the%20South%20Sea%20Bubble.%20Who%20was%20the%20main%20mastermind%20behind%20it%3F",
-            "correct_answer": "John%20Blunt",
+            "question": "Berat mobil ayah 2 ton 150 kg. Berapa kilogram berat mobil tersebut?",
+            "correct_answer": "2.150 kg",
             "incorrect_answers": [
-                "Daniel%20Defoe",
-                "Robert%20Harley",
-                "John%20Churchill"
+                "2.15 kg",
+                "21.500 kg",
+                "215 kg"
             ]
         },
         {
-            "category": "History",
-            "type": "boolean",
-            "difficulty": "easy",
-            "question": "In%20World%20War%20ll%2C%20Great%20Britian%20used%20inflatable%20tanks%20on%20the%20ports%20of%20Great%20Britain%20to%20divert%20Hitler%20away%20from%20Normandy%2FD-day%20landing.",
-            "correct_answer": "True",
-            "incorrect_answers": [
-                "False"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "boolean",
-            "difficulty": "easy",
-            "question": "Adolf%20Hitler%20was%20tried%20at%20the%20Nuremberg%20trials.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        },
-        {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "To%20what%20political%20party%20did%20Abraham%20Lincoln%20belong%20when%20elected%20POTUS%3F",
-            "correct_answer": "Republican",
+            "question": "Sebuah persegi panjang mempunyai panjang 25 cm dan lebar 20 cm. Luas persegi panjang tersebut adalah",
+            "correct_answer": "500",
             "incorrect_answers": [
-                "Democrat",
-                "Independent",
-                "Whig"
+                "400",
+                "600",
+                "700"
             ]
         },
         {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which%20modern%20country%20is%20known%20as%20%22The%20Graveyard%20of%20Empires%22%3F",
-            "correct_answer": "Afghanistan",
+            "question": "Sebuah persegi panjang memiliki luas 270 cm. Apabila lebar persegi panjang itu 15 cm, berapa panjangnya?",
+            "correct_answer": "18 cm",
             "incorrect_answers": [
-                "China",
-                "Iraq",
-                "Russia"
+                "15 cm",
+                "16 cm",
+                "17 cm"
             ]
         },
         {
-            "category": "History",
+            "category": "Mathematics",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In%20what%20year%20did%20the%20Great%20Northern%20War%2C%20between%20Russia%20and%20Sweden%2C%20end%3F",
-            "correct_answer": "1721",
+            "question": "Permukaan meja berbentuk persegi panjang memiliki panjang 150 cm dan lebar 80 cm. Berapa keliling meja tersebut?",
+            "correct_answer": "460",
             "incorrect_answers": [
-                "1726",
-                "1727",
-                "1724"
+                "130",
+                "160",
+                "300"
+            ]
+        },
+        {
+            "category": "Mathematics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Hitunglah 1,9 + 5,6 + 0,45 - 3,5 =...",
+            "correct_answer": "4,45",
+            "incorrect_answers": [
+                "4,5",
+                "3,45",
+                "3,5"
             ]
         }
     ]
