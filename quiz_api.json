@@ -5,7 +5,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which%20one%20of%20these%20was%20not%20a%20beach%20landing%20site%20in%20the%20Invasion%20of%20Normandy%3F",
+            "question": "Berapakah pecahan paling sederhana dari pecahan 16/24",
             "correct_answer": "Silver",
             "incorrect_answers": [
                 "Gold",
@@ -17,7 +17,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In%20what%20year%20did%20the%20Wall%20Street%20Crash%20take%20place%3F",
+            "question": "KPK dari 27 dan 45 adalah",
             "correct_answer": "1929",
             "incorrect_answers": [
                 "1932",
@@ -29,7 +29,7 @@
             "category": "History",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The%20Spitfire%20originated%20from%20a%20racing%20plane.",
+            "question": "Berapa FPB dari 27 dan 45",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -39,7 +39,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which%20modern%20day%20country%20is%20the%20region%20that%20was%20known%20as%20Phrygia%20in%20ancient%20times%3F",
+            "question": "Sudut yang terbentuk antara 0 sampai dengan 90 derajat disebut dengan sudut",
             "correct_answer": "Turkey",
             "incorrect_answers": [
                 "Syria",
